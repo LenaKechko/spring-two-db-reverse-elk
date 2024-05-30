@@ -1,0 +1,5 @@
+db.customer.insertOne({
+  "firstname": "Vasya",
+  "lastname": "Mak",
+  "createDate": new ISODate()
+})
